@@ -1,11 +1,8 @@
 body {
-  font-family: monospace;
-  text-align: center;
-}
-
-img {
-  height: 200px;
-  width: 200px;
+  font-family:cursive;
+  font-size: 14;
+  font-weight: 300;
+  background-color: #fefee1;
 }
 
 .introImage {
@@ -13,10 +10,15 @@ img {
   width: auto;
 }
 
+h1 {
+  text-shadow: 2px 2px #ff0000;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  font-style: italic;
 }
 
 ol {
